@@ -1,4 +1,4 @@
-uuid: bb922657-6fb8-4686-9ef4-13f480e515d5
+uuid: b57f7916-2b7c-4527-9f4e-ec91a022dc6a
 langcode: en
 status: true
 dependencies:
@@ -7,7 +7,7 @@ dependencies:
   theme:
     - gin
 _core:
-  default_config_hash: y9X3xgCsO59pQyzNLzY1D3SDJJxCHILLWkpPnmuTJ2E
+  default_config_hash: A88lh4fB39MZ23-Zc3JwQFkBLmKLOEvVh96yo6dYfZw
 id: gin_breadcrumbs
 theme: gin
 region: breadcrumb

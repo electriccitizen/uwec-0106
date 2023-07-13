@@ -1,9 +1,9 @@
-uuid: 48a18ead-b398-44ec-8c9f-78871a473b2b
+uuid: 813d5758-2e99-4bd1-b96d-e5ffcbd0f279
 langcode: en
 status: 1
 dependencies: {  }
 _core:
-  default_config_hash: _hjwInFzddx0jggh1LG3SZ5l86DyYpUKgCZ7LNwaOsU
+  default_config_hash: o4vEEf6ppn3hFbUbAcrctduHDVTearxamws9G67q2Kk
 id: iphone_xs
 label: 'iPhone XS'
 weight: -6

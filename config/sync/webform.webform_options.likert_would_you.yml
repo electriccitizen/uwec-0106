@@ -1,4 +1,4 @@
-uuid: 626db804-6dae-4674-b14e-86214850767c
+uuid: d16c724a-a752-4768-b07b-31e70e938e63
 langcode: en
 status: true
 dependencies:
@@ -6,7 +6,7 @@ dependencies:
     module:
       - webform
 _core:
-  default_config_hash: sLsP3e6nwKMjLqFvfUCTy65X_ApxMl7xI2somrMsXkg
+  default_config_hash: odWaK40S97yu0FuLrGAMr2s4DxjY-CMKJtMe5CHiEHA
 id: likert_would_you
 label: 'Likert: Would You'
 category: Likert

@@ -1,9 +1,9 @@
-uuid: c84dfd51-e5db-4491-abf2-aeac15462911
+uuid: 099cdd64-df21-4c35-9fcc-c64b2d80f586
 langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: TiP_IXzoRHtlk2BiftNdjQ-svHpK4a_jUmcSreahWWY
+  default_config_hash: GuBjmqVVkn4N1NLhkQ82MSP5uV3w3noFd4MyAWFR5-E
 id: footer
 label: Footer
 description: 'Site information links'
